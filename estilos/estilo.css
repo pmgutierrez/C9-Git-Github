@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: yellowgreen;
+    height: 100px;
+    text-align:center;
+    /* align-items:center; */
+}
+
+aside {
+    background-color: brown;
+    width: 150px;
+    padding: 5px;
+    text-align: center;
+    color: white;
+}
+
+main {
+    background-color: antiquewhite;
+    display: flex;
+}
+
+.principal {
+    text-align: center;
+}
+
+footer {
+    background-color: coral;
+}
